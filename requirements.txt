@@ -1,0 +1,5 @@
+fastNLP==0.7.0
+pandas==1.2.5
+torch==1.10.1
+tqdm==4.61.1
+transformers==4.14.1
